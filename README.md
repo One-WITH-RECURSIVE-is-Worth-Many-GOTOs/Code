@@ -1,6 +1,6 @@
 # One `WITH RECURSIVE` is Worth Many `GOTO`s
 
-This repository contains the 13 PL/SQL UDFs discussed in 
+This repository contains the 18 PL/SQL UDFs discussed in 
 Section 4 of the accompanying paper "_One `WITH RECURSIVE`
 is Worth Many `GOTO`s_".  Each UDF is present in its original
 PL/SQL form as well as the compiled SQL form.
